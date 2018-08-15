@@ -1,6 +1,7 @@
 # RESTful API dengan Node & Express 
 
-lorem
+Representational State Transfer (REST) merupakan standar arsitektur komunikasi yang umum di terapkan untuk membangun layanan berbasis web.
+istilah REST di perkenalkan oleh Roy Thomas Fielding pada Desertasinya yang berjudul "Architectural Styles and the Design of Network-based Software Architectures" di University of California, tahun 2000. 
 
 ## Getting Started
 

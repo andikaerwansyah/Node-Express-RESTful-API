@@ -1,0 +1,27 @@
+{
+  "name": "node-express-restful-api",
+  "version": "1.0.0",
+  "description": "RESTful API dengan Node.js & Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andikaerwansyah/Node-Express-RESTful-API.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "restapi"
+  ],
+  "author": "Andika Erwansyah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andikaerwansyah/Node-Express-RESTful-API/issues"
+  },
+  "homepage": "https://github.com/andikaerwansyah/Node-Express-RESTful-API#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
